@@ -1,2 +1,2 @@
 # XMonad
-Dotfiles for xfce4 config under XMonad
+Xmonad configurations with taffybar
